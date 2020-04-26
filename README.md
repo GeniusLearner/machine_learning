@@ -39,6 +39,6 @@ In this lab, you will use pre-trained models to classify between the negative an
     train the model
     identify several misclassified samples
 
-## Resnet 
+## ResNet 50
 
 In this we will build another classifier using another pre-trained model, namely the VGG16 model, following the same steps we completed in the previous module {Pytorch} using the ResNet50 pre-trained model. Then you will test the classifiers on a test set.
